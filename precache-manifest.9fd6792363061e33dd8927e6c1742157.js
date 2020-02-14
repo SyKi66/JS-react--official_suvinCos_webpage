@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d6878f2e74b086d1e7d6fd99d52f845a",
+    "revision": "85188c970952ae503e685c578f1da5e7",
     "url": "/JS-react--official_suvinCos_webpage/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/JS-react--official_suvinCos_webpage/static/css/2.0642d21a.chunk.css"
   },
   {
-    "revision": "44cb236c34a2ed80616f",
-    "url": "/JS-react--official_suvinCos_webpage/static/css/main.bb38f479.chunk.css"
+    "revision": "2b07ba269839323be791",
+    "url": "/JS-react--official_suvinCos_webpage/static/css/main.643fb84a.chunk.css"
   },
   {
     "revision": "99d4e67c14da94a88c46",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/JS-react--official_suvinCos_webpage/static/js/2.82dc979d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "44cb236c34a2ed80616f",
-    "url": "/JS-react--official_suvinCos_webpage/static/js/main.03f25ca4.chunk.js"
+    "revision": "2b07ba269839323be791",
+    "url": "/JS-react--official_suvinCos_webpage/static/js/main.713a5386.chunk.js"
   },
   {
     "revision": "ccf29202f1de7faafb5e",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/JS-react--official_suvinCos_webpage/static/media/intro03.afae25bf.png"
   },
   {
-    "revision": "b0398098ee4b7a0b12465b88feb358be",
-    "url": "/JS-react--official_suvinCos_webpage/static/media/notice.b0398098.jpg"
+    "revision": "027032a02a2fd27eb150f12361b67487",
+    "url": "/JS-react--official_suvinCos_webpage/static/media/notice.027032a0.jpg"
   },
   {
     "revision": "d2a29de87b839e617fe8fbd1dd0def99",
@@ -60,7 +60,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/JS-react--official_suvinCos_webpage/static/media/suvin02.1c201397.png"
   },
   {
-    "revision": "26e3e08d63fb9d9424ef2ccaa5fdce80",
-    "url": "/JS-react--official_suvinCos_webpage/static/media/telephone.26e3e08d.jpg"
+    "revision": "e52b6088611bfcc0d562eea057d60a11",
+    "url": "/JS-react--official_suvinCos_webpage/static/media/telephone.e52b6088.jpg"
   }
 ]);
