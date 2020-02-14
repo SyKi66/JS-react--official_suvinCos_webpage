@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bdf9bcce0dcc644b97011fd20ccf93b2",
+    "revision": "dccceeeb39f006155c4637e0d7122e33",
     "url": "/JS-react--official_suvinCos_webpage/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/JS-react--official_suvinCos_webpage/static/css/2.0642d21a.chunk.css"
   },
   {
-    "revision": "29e3a256963dcfe593e7",
-    "url": "/JS-react--official_suvinCos_webpage/static/css/main.fc462561.chunk.css"
+    "revision": "d5db6559047a2204d1a2",
+    "url": "/JS-react--official_suvinCos_webpage/static/css/main.b1787b4c.chunk.css"
   },
   {
     "revision": "99d4e67c14da94a88c46",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/JS-react--official_suvinCos_webpage/static/js/2.82dc979d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "29e3a256963dcfe593e7",
-    "url": "/JS-react--official_suvinCos_webpage/static/js/main.fc40dbeb.chunk.js"
+    "revision": "d5db6559047a2204d1a2",
+    "url": "/JS-react--official_suvinCos_webpage/static/js/main.e7d96632.chunk.js"
   },
   {
     "revision": "ccf29202f1de7faafb5e",
