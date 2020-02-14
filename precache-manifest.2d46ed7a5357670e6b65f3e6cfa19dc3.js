@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "85188c970952ae503e685c578f1da5e7",
+    "revision": "2aa2679d2119f4db63f7454a68bfce44",
     "url": "/JS-react--official_suvinCos_webpage/index.html"
   },
   {
-    "revision": "99d4e67c14da94a88c46",
+    "revision": "f2122331bb70bea9f1fc",
     "url": "/JS-react--official_suvinCos_webpage/static/css/2.0642d21a.chunk.css"
   },
   {
-    "revision": "2b07ba269839323be791",
-    "url": "/JS-react--official_suvinCos_webpage/static/css/main.643fb84a.chunk.css"
+    "revision": "703bf5328a9c07012ae0",
+    "url": "/JS-react--official_suvinCos_webpage/static/css/main.6cb10a7d.chunk.css"
   },
   {
-    "revision": "99d4e67c14da94a88c46",
-    "url": "/JS-react--official_suvinCos_webpage/static/js/2.82dc979d.chunk.js"
+    "revision": "f2122331bb70bea9f1fc",
+    "url": "/JS-react--official_suvinCos_webpage/static/js/2.d257a5d8.chunk.js"
   },
   {
     "revision": "299cba5f6c747cbc295097594263041b",
-    "url": "/JS-react--official_suvinCos_webpage/static/js/2.82dc979d.chunk.js.LICENSE.txt"
+    "url": "/JS-react--official_suvinCos_webpage/static/js/2.d257a5d8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2b07ba269839323be791",
-    "url": "/JS-react--official_suvinCos_webpage/static/js/main.713a5386.chunk.js"
+    "revision": "703bf5328a9c07012ae0",
+    "url": "/JS-react--official_suvinCos_webpage/static/js/main.6fe8a7ee.chunk.js"
   },
   {
     "revision": "ccf29202f1de7faafb5e",
@@ -56,8 +56,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/JS-react--official_suvinCos_webpage/static/media/suvin01.d2a29de8.png"
   },
   {
+    "revision": "9e52e78bd79ba721f9afa8776002d946",
+    "url": "/JS-react--official_suvinCos_webpage/static/media/suvin01_mobile.9e52e78b.png"
+  },
+  {
     "revision": "1c201397fdd970fa844210a2c6f5cb51",
     "url": "/JS-react--official_suvinCos_webpage/static/media/suvin02.1c201397.png"
+  },
+  {
+    "revision": "8b525a7d285bd99eb2d8d3dd235274d1",
+    "url": "/JS-react--official_suvinCos_webpage/static/media/suvin02_mobile.8b525a7d.png"
   },
   {
     "revision": "e52b6088611bfcc0d562eea057d60a11",
