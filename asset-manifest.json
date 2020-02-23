@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/JS-react--official_suvinCos_webpage/static/css/main.d2fb84a9.chunk.css",
-    "main.js": "/JS-react--official_suvinCos_webpage/static/js/main.ab392428.chunk.js",
-    "main.js.map": "/JS-react--official_suvinCos_webpage/static/js/main.ab392428.chunk.js.map",
+    "main.css": "/JS-react--official_suvinCos_webpage/static/css/main.2b3154d5.chunk.css",
+    "main.js": "/JS-react--official_suvinCos_webpage/static/js/main.130a951e.chunk.js",
+    "main.js.map": "/JS-react--official_suvinCos_webpage/static/js/main.130a951e.chunk.js.map",
     "runtime-main.js": "/JS-react--official_suvinCos_webpage/static/js/runtime-main.85fbc60e.js",
     "runtime-main.js.map": "/JS-react--official_suvinCos_webpage/static/js/runtime-main.85fbc60e.js.map",
     "static/css/2.0642d21a.chunk.css": "/JS-react--official_suvinCos_webpage/static/css/2.0642d21a.chunk.css",
-    "static/js/2.d257a5d8.chunk.js": "/JS-react--official_suvinCos_webpage/static/js/2.d257a5d8.chunk.js",
-    "static/js/2.d257a5d8.chunk.js.map": "/JS-react--official_suvinCos_webpage/static/js/2.d257a5d8.chunk.js.map",
+    "static/js/2.c5ec4df0.chunk.js": "/JS-react--official_suvinCos_webpage/static/js/2.c5ec4df0.chunk.js",
+    "static/js/2.c5ec4df0.chunk.js.map": "/JS-react--official_suvinCos_webpage/static/js/2.c5ec4df0.chunk.js.map",
     "index.html": "/JS-react--official_suvinCos_webpage/index.html",
-    "precache-manifest.e9c3b7e4c69ae171343998b0ce81c3f6.js": "/JS-react--official_suvinCos_webpage/precache-manifest.e9c3b7e4c69ae171343998b0ce81c3f6.js",
+    "precache-manifest.dc891b363621843bd4bca906ecea961f.js": "/JS-react--official_suvinCos_webpage/precache-manifest.dc891b363621843bd4bca906ecea961f.js",
     "service-worker.js": "/JS-react--official_suvinCos_webpage/service-worker.js",
     "static/css/2.0642d21a.chunk.css.map": "/JS-react--official_suvinCos_webpage/static/css/2.0642d21a.chunk.css.map",
-    "static/css/main.d2fb84a9.chunk.css.map": "/JS-react--official_suvinCos_webpage/static/css/main.d2fb84a9.chunk.css.map",
-    "static/js/2.d257a5d8.chunk.js.LICENSE.txt": "/JS-react--official_suvinCos_webpage/static/js/2.d257a5d8.chunk.js.LICENSE.txt",
+    "static/css/main.2b3154d5.chunk.css.map": "/JS-react--official_suvinCos_webpage/static/css/main.2b3154d5.chunk.css.map",
+    "static/js/2.c5ec4df0.chunk.js.LICENSE.txt": "/JS-react--official_suvinCos_webpage/static/js/2.c5ec4df0.chunk.js.LICENSE.txt",
     "static/media/mdb.css": "/JS-react--official_suvinCos_webpage/static/media/arrow_right.8ef6a08c.svg",
     "static/media/intro01.png": "/JS-react--official_suvinCos_webpage/static/media/intro01.4b41e37d.png",
     "static/media/intro02.png": "/JS-react--official_suvinCos_webpage/static/media/intro02.39ea6869.png",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.85fbc60e.js",
     "static/css/2.0642d21a.chunk.css",
-    "static/js/2.d257a5d8.chunk.js",
-    "static/css/main.d2fb84a9.chunk.css",
-    "static/js/main.ab392428.chunk.js"
+    "static/js/2.c5ec4df0.chunk.js",
+    "static/css/main.2b3154d5.chunk.css",
+    "static/js/main.130a951e.chunk.js"
   ]
 }
