@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e5a980ac49029c0e9ee87592e0112959",
+    "revision": "18d71b3a141e49e6020495ae0d6ada71",
     "url": "/JS-react--official_suvinCos_webpage/index.html"
   },
   {
-    "revision": "9d3ea642334293ea15e8",
-    "url": "/JS-react--official_suvinCos_webpage/static/css/2.0642d21a.chunk.css"
+    "revision": "866b9fa9de0617533de5",
+    "url": "/JS-react--official_suvinCos_webpage/static/css/2.706c1068.chunk.css"
   },
   {
-    "revision": "3f8d137128a86c393a9f",
-    "url": "/JS-react--official_suvinCos_webpage/static/css/main.64072aec.chunk.css"
+    "revision": "2c1d74386442813e0d29",
+    "url": "/JS-react--official_suvinCos_webpage/static/css/main.b60fff29.chunk.css"
   },
   {
-    "revision": "9d3ea642334293ea15e8",
-    "url": "/JS-react--official_suvinCos_webpage/static/js/2.f5c7e5d9.chunk.js"
+    "revision": "866b9fa9de0617533de5",
+    "url": "/JS-react--official_suvinCos_webpage/static/js/2.a7306dc3.chunk.js"
   },
   {
     "revision": "299cba5f6c747cbc295097594263041b",
-    "url": "/JS-react--official_suvinCos_webpage/static/js/2.f5c7e5d9.chunk.js.LICENSE.txt"
+    "url": "/JS-react--official_suvinCos_webpage/static/js/2.a7306dc3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3f8d137128a86c393a9f",
-    "url": "/JS-react--official_suvinCos_webpage/static/js/main.1760448d.chunk.js"
+    "revision": "2c1d74386442813e0d29",
+    "url": "/JS-react--official_suvinCos_webpage/static/js/main.14628928.chunk.js"
   },
   {
     "revision": "ccf29202f1de7faafb5e",
@@ -88,6 +88,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/JS-react--official_suvinCos_webpage/static/media/certificate_12.fc6d5253.jpg"
   },
   {
+    "revision": "d5fcfe2262c578b2fa1dfd6dacc10f7d",
+    "url": "/JS-react--official_suvinCos_webpage/static/media/consulting.d5fcfe22.jpg"
+  },
+  {
+    "revision": "d350e5b1f4ddb4779cadf05afdd07f2b",
+    "url": "/JS-react--official_suvinCos_webpage/static/media/contract.d350e5b1.jpg"
+  },
+  {
     "revision": "08f0b1dee084d3fd380c4b5d3f1dc64d",
     "url": "/JS-react--official_suvinCos_webpage/static/media/diverseDistribution.08f0b1de.jpg"
   },
@@ -114,6 +122,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c2a6f7e95a16459dd97ef6396d4061ad",
     "url": "/JS-react--official_suvinCos_webpage/static/media/overseasMarketing.c2a6f7e9.jpg"
+  },
+  {
+    "revision": "0a9add5bcba6d95dfbfd16fffe7d84fc",
+    "url": "/JS-react--official_suvinCos_webpage/static/media/shaking_hands.0a9add5b.jpg"
   },
   {
     "revision": "d2a29de87b839e617fe8fbd1dd0def99",
