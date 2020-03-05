@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "18d71b3a141e49e6020495ae0d6ada71",
+    "revision": "3ec8f6d7cec53fe2a3358c2daf257856",
     "url": "/JS-react--official_suvinCos_webpage/index.html"
   },
   {
-    "revision": "866b9fa9de0617533de5",
+    "revision": "9aeb01202ff7d1cfe97e",
     "url": "/JS-react--official_suvinCos_webpage/static/css/2.706c1068.chunk.css"
   },
   {
-    "revision": "2c1d74386442813e0d29",
-    "url": "/JS-react--official_suvinCos_webpage/static/css/main.b60fff29.chunk.css"
+    "revision": "d52fdf818d640de61ef7",
+    "url": "/JS-react--official_suvinCos_webpage/static/css/main.49802d84.chunk.css"
   },
   {
-    "revision": "866b9fa9de0617533de5",
-    "url": "/JS-react--official_suvinCos_webpage/static/js/2.a7306dc3.chunk.js"
+    "revision": "9aeb01202ff7d1cfe97e",
+    "url": "/JS-react--official_suvinCos_webpage/static/js/2.a26055da.chunk.js"
   },
   {
     "revision": "299cba5f6c747cbc295097594263041b",
-    "url": "/JS-react--official_suvinCos_webpage/static/js/2.a7306dc3.chunk.js.LICENSE.txt"
+    "url": "/JS-react--official_suvinCos_webpage/static/js/2.a26055da.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2c1d74386442813e0d29",
-    "url": "/JS-react--official_suvinCos_webpage/static/js/main.14628928.chunk.js"
+    "revision": "d52fdf818d640de61ef7",
+    "url": "/JS-react--official_suvinCos_webpage/static/js/main.0543ab43.chunk.js"
   },
   {
     "revision": "ccf29202f1de7faafb5e",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8ef6a08cdc1154920165680a4edde771",
     "url": "/JS-react--official_suvinCos_webpage/static/media/arrow_right.8ef6a08c.svg"
+  },
+  {
+    "revision": "ef73285f5304886a65925b6ed41cfdea",
+    "url": "/JS-react--official_suvinCos_webpage/static/media/bioTech.ef73285f.jpg"
   },
   {
     "revision": "c6d38e0b7dbde1299dd54d0e7ca733aa",
@@ -88,8 +92,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/JS-react--official_suvinCos_webpage/static/media/certificate_12.fc6d5253.jpg"
   },
   {
-    "revision": "d5fcfe2262c578b2fa1dfd6dacc10f7d",
-    "url": "/JS-react--official_suvinCos_webpage/static/media/consulting.d5fcfe22.jpg"
+    "revision": "22e1aad0337d3f418931d7ee7aea54e3",
+    "url": "/JS-react--official_suvinCos_webpage/static/media/conduct.22e1aad0.png"
+  },
+  {
+    "revision": "98cdf0807e3e3f36b4fe033a6401f154",
+    "url": "/JS-react--official_suvinCos_webpage/static/media/consulting.98cdf080.jpg"
   },
   {
     "revision": "d350e5b1f4ddb4779cadf05afdd07f2b",
@@ -100,8 +108,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/JS-react--official_suvinCos_webpage/static/media/diverseDistribution.08f0b1de.jpg"
   },
   {
-    "revision": "bfda53533f5219052515042c89382307",
-    "url": "/JS-react--official_suvinCos_webpage/static/media/dutyfreeStore.bfda5353.jpg"
+    "revision": "ad237d6f2fe5c22deb7d806c8dfa3c9f",
+    "url": "/JS-react--official_suvinCos_webpage/static/media/dutyfreeStore.ad237d6f.jpg"
   },
   {
     "revision": "4b41e37da9ca84c116a11c25f78cf02d",
@@ -116,12 +124,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/JS-react--official_suvinCos_webpage/static/media/intro03.afae25bf.png"
   },
   {
+    "revision": "385787f94016fa2384ebce0c34f91720",
+    "url": "/JS-react--official_suvinCos_webpage/static/media/nanoTech.385787f9.jpg"
+  },
+  {
     "revision": "027032a02a2fd27eb150f12361b67487",
     "url": "/JS-react--official_suvinCos_webpage/static/media/notice.027032a0.jpg"
   },
   {
     "revision": "c2a6f7e95a16459dd97ef6396d4061ad",
     "url": "/JS-react--official_suvinCos_webpage/static/media/overseasMarketing.c2a6f7e9.jpg"
+  },
+  {
+    "revision": "53721aa5c8105510b452701d72c286be",
+    "url": "/JS-react--official_suvinCos_webpage/static/media/procurement.53721aa5.jpg"
+  },
+  {
+    "revision": "8f51672fb0972592945b4d5ee9044b60",
+    "url": "/JS-react--official_suvinCos_webpage/static/media/product.8f51672f.png"
+  },
+  {
+    "revision": "b07fca9b394a2c3e8e6489785319df5a",
+    "url": "/JS-react--official_suvinCos_webpage/static/media/production.b07fca9b.png"
+  },
+  {
+    "revision": "cc49d5f4e050a6e2dbd3175b7824a944",
+    "url": "/JS-react--official_suvinCos_webpage/static/media/rnd.cc49d5f4.jpg"
   },
   {
     "revision": "0a9add5bcba6d95dfbfd16fffe7d84fc",

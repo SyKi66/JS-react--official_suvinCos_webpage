@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/JS-react--official_suvinCos_webpage/precache-manifest.e9f9f0cb55cb9321e6f8e91790dbd6bc.js"
+  "/JS-react--official_suvinCos_webpage/precache-manifest.4c1126eff96cfb3ba733749b472b75f9.js"
 );
 
 self.addEventListener('message', (event) => {
