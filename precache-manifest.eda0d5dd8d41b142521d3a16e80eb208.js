@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ec8f6d7cec53fe2a3358c2daf257856",
+    "revision": "77c71f3651db0bf73e1ab1c8fb58179d",
     "url": "/JS-react--official_suvinCos_webpage/index.html"
   },
   {
-    "revision": "9aeb01202ff7d1cfe97e",
+    "revision": "5b0ff375c829c19d316e",
     "url": "/JS-react--official_suvinCos_webpage/static/css/2.706c1068.chunk.css"
   },
   {
-    "revision": "d52fdf818d640de61ef7",
-    "url": "/JS-react--official_suvinCos_webpage/static/css/main.49802d84.chunk.css"
+    "revision": "7a9ab1a9cc4d689e8cee",
+    "url": "/JS-react--official_suvinCos_webpage/static/css/main.bc956f86.chunk.css"
   },
   {
-    "revision": "9aeb01202ff7d1cfe97e",
-    "url": "/JS-react--official_suvinCos_webpage/static/js/2.a26055da.chunk.js"
+    "revision": "5b0ff375c829c19d316e",
+    "url": "/JS-react--official_suvinCos_webpage/static/js/2.840633e7.chunk.js"
   },
   {
     "revision": "299cba5f6c747cbc295097594263041b",
-    "url": "/JS-react--official_suvinCos_webpage/static/js/2.a26055da.chunk.js.LICENSE.txt"
+    "url": "/JS-react--official_suvinCos_webpage/static/js/2.840633e7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d52fdf818d640de61ef7",
-    "url": "/JS-react--official_suvinCos_webpage/static/js/main.0543ab43.chunk.js"
+    "revision": "7a9ab1a9cc4d689e8cee",
+    "url": "/JS-react--official_suvinCos_webpage/static/js/main.8ba976c4.chunk.js"
   },
   {
     "revision": "ccf29202f1de7faafb5e",
