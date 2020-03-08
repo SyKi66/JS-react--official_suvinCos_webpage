@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "effcc702843b115b0d26854029741e07",
+    "revision": "e503b84b9d07062e6d28ed8ea736136d",
     "url": "/suvin-cosmetic-official-webpage/index.html"
   },
   {
-    "revision": "bb37200da1407fbc7e29",
+    "revision": "688d104a27a33b4ae796",
     "url": "/suvin-cosmetic-official-webpage/static/css/2.b5572cf8.chunk.css"
   },
   {
-    "revision": "13ec633a0e6dc4124136",
-    "url": "/suvin-cosmetic-official-webpage/static/css/main.7a27046b.chunk.css"
+    "revision": "84456793e93bd4cd5db1",
+    "url": "/suvin-cosmetic-official-webpage/static/css/main.e237a045.chunk.css"
   },
   {
-    "revision": "bb37200da1407fbc7e29",
-    "url": "/suvin-cosmetic-official-webpage/static/js/2.877fc147.chunk.js"
+    "revision": "688d104a27a33b4ae796",
+    "url": "/suvin-cosmetic-official-webpage/static/js/2.f0476dac.chunk.js"
   },
   {
     "revision": "299cba5f6c747cbc295097594263041b",
-    "url": "/suvin-cosmetic-official-webpage/static/js/2.877fc147.chunk.js.LICENSE.txt"
+    "url": "/suvin-cosmetic-official-webpage/static/js/2.f0476dac.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "13ec633a0e6dc4124136",
-    "url": "/suvin-cosmetic-official-webpage/static/js/main.55eef970.chunk.js"
+    "revision": "84456793e93bd4cd5db1",
+    "url": "/suvin-cosmetic-official-webpage/static/js/main.5275514a.chunk.js"
   },
   {
     "revision": "d74fb6edaad5beef8e0d",
     "url": "/suvin-cosmetic-official-webpage/static/js/runtime-main.9b0af20d.js"
+  },
+  {
+    "revision": "a4bfddb15312ff7b02f3444fc366850e",
+    "url": "/suvin-cosmetic-official-webpage/static/media/Global_Suvin.a4bfddb1.jpg"
   },
   {
     "revision": "11911410dca2de148f30954eb2fd5eab",
@@ -36,64 +40,68 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suvin-cosmetic-official-webpage/static/media/arrow_right.8ef6a08c.svg"
   },
   {
-    "revision": "d72e14a6859231a1968234dd7f750502",
-    "url": "/suvin-cosmetic-official-webpage/static/media/bioTech.d72e14a6.jpg"
+    "revision": "231d970cff43432f32e041d108e3474e",
+    "url": "/suvin-cosmetic-official-webpage/static/media/basicTech.231d970c.png"
+  },
+  {
+    "revision": "7c6c949728fbf0fe6faaeeee70c31ebd",
+    "url": "/suvin-cosmetic-official-webpage/static/media/bioTech.7c6c9497.png"
   },
   {
     "revision": "b22fd056731be17f93628f3282e285ce",
     "url": "/suvin-cosmetic-official-webpage/static/media/ceo.b22fd056.jpg"
   },
   {
-    "revision": "c6d38e0b7dbde1299dd54d0e7ca733aa",
-    "url": "/suvin-cosmetic-official-webpage/static/media/certificate.c6d38e0b.jpg"
+    "revision": "785c94bc8ec829240e65f997475a4e72",
+    "url": "/suvin-cosmetic-official-webpage/static/media/certificate.785c94bc.jpg"
   },
   {
-    "revision": "c6d38e0b7dbde1299dd54d0e7ca733aa",
-    "url": "/suvin-cosmetic-official-webpage/static/media/certificate_01.c6d38e0b.jpg"
+    "revision": "75a93c81926431ffd32ff986076020f6",
+    "url": "/suvin-cosmetic-official-webpage/static/media/certificate_01.75a93c81.jpg"
   },
   {
-    "revision": "f523b21414fe4df8056c04489981f97c",
-    "url": "/suvin-cosmetic-official-webpage/static/media/certificate_02.f523b214.jpg"
+    "revision": "9be2a9c4c71e319f723ea8e9518b2d74",
+    "url": "/suvin-cosmetic-official-webpage/static/media/certificate_02.9be2a9c4.jpg"
   },
   {
-    "revision": "bbed78cdcb812cda0cae8e1ff1bb3922",
-    "url": "/suvin-cosmetic-official-webpage/static/media/certificate_03.bbed78cd.jpg"
+    "revision": "70d688b4cb87c1f2a8a4248d8ffbc002",
+    "url": "/suvin-cosmetic-official-webpage/static/media/certificate_03.70d688b4.jpg"
   },
   {
-    "revision": "cbb821344675c3cb9b5a2d21917ec736",
-    "url": "/suvin-cosmetic-official-webpage/static/media/certificate_04.cbb82134.jpg"
+    "revision": "ccc1d7c4eb6b9ef793e150a08a6b1fb7",
+    "url": "/suvin-cosmetic-official-webpage/static/media/certificate_04.ccc1d7c4.jpg"
   },
   {
-    "revision": "373810cbede4d887232546f7d7db0d40",
-    "url": "/suvin-cosmetic-official-webpage/static/media/certificate_05.373810cb.jpg"
+    "revision": "07b1ec282122976b28ecee1f2454d070",
+    "url": "/suvin-cosmetic-official-webpage/static/media/certificate_05.07b1ec28.jpg"
   },
   {
-    "revision": "d0c67fa1091affab58c1962ef1a6f27c",
-    "url": "/suvin-cosmetic-official-webpage/static/media/certificate_06.d0c67fa1.jpg"
+    "revision": "1c9a9d9f85bc7424ce968d0cb3c41dcc",
+    "url": "/suvin-cosmetic-official-webpage/static/media/certificate_06.1c9a9d9f.jpg"
   },
   {
-    "revision": "911bb9de78797b642117b0130c4792db",
-    "url": "/suvin-cosmetic-official-webpage/static/media/certificate_07.911bb9de.jpg"
+    "revision": "b31e77e14676c99c4f8d57e4ba19f258",
+    "url": "/suvin-cosmetic-official-webpage/static/media/certificate_07.b31e77e1.jpg"
   },
   {
-    "revision": "13188affee0881dfd2bc2d4a1d54e713",
-    "url": "/suvin-cosmetic-official-webpage/static/media/certificate_08.13188aff.jpg"
+    "revision": "0f82f9841500ac07647ba69882decd9a",
+    "url": "/suvin-cosmetic-official-webpage/static/media/certificate_08.0f82f984.jpg"
   },
   {
-    "revision": "5659a8a475faf521796da1e13f58819f",
-    "url": "/suvin-cosmetic-official-webpage/static/media/certificate_09.5659a8a4.jpg"
+    "revision": "ec6d31c1a97379df57bac7b6001d8a50",
+    "url": "/suvin-cosmetic-official-webpage/static/media/certificate_09.ec6d31c1.jpg"
   },
   {
-    "revision": "5369a9075a8cd9f7acc0b97dfd68681c",
-    "url": "/suvin-cosmetic-official-webpage/static/media/certificate_10.5369a907.jpg"
+    "revision": "7bfa6693e05587b06cd32d229fa6b598",
+    "url": "/suvin-cosmetic-official-webpage/static/media/certificate_10.7bfa6693.jpg"
   },
   {
-    "revision": "69d6179c127e0a42dcb50a4c29aad45f",
-    "url": "/suvin-cosmetic-official-webpage/static/media/certificate_11.69d6179c.jpg"
+    "revision": "a112085ad135e0652b1aed818dad7e9f",
+    "url": "/suvin-cosmetic-official-webpage/static/media/certificate_11.a112085a.jpg"
   },
   {
-    "revision": "fc6d5253423a17237803d2c8e28885f2",
-    "url": "/suvin-cosmetic-official-webpage/static/media/certificate_12.fc6d5253.jpg"
+    "revision": "d9cdcb2357479e950dd6d1878e3ce4f6",
+    "url": "/suvin-cosmetic-official-webpage/static/media/certificate_12.d9cdcb23.jpg"
   },
   {
     "revision": "22e1aad0337d3f418931d7ee7aea54e3",
@@ -116,8 +124,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suvin-cosmetic-official-webpage/static/media/dutyfreeStore.ad237d6f.jpg"
   },
   {
-    "revision": "ef73285f5304886a65925b6ed41cfdea",
-    "url": "/suvin-cosmetic-official-webpage/static/media/fusionTech.ef73285f.jpg"
+    "revision": "b971cacf79c417337c62d85b6615ca3c",
+    "url": "/suvin-cosmetic-official-webpage/static/media/fusionTech.b971cacf.png"
   },
   {
     "revision": "0db5d6b044d36839af4ce06c54099af8",
@@ -136,8 +144,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suvin-cosmetic-official-webpage/static/media/intro03.afae25bf.png"
   },
   {
-    "revision": "385787f94016fa2384ebce0c34f91720",
-    "url": "/suvin-cosmetic-official-webpage/static/media/nanoTech.385787f9.jpg"
+    "revision": "8bc1f6cb00126e5d4fc56e3ac77b0bc7",
+    "url": "/suvin-cosmetic-official-webpage/static/media/motto.8bc1f6cb.png"
+  },
+  {
+    "revision": "ad0277e3701f0fd2f2c8ffca58d4b5a5",
+    "url": "/suvin-cosmetic-official-webpage/static/media/nanoTech.ad0277e3.png"
   },
   {
     "revision": "027032a02a2fd27eb150f12361b67487",
@@ -158,6 +170,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b07fca9b394a2c3e8e6489785319df5a",
     "url": "/suvin-cosmetic-official-webpage/static/media/production.b07fca9b.png"
+  },
+  {
+    "revision": "067de58d41393cce48a189cbbf7166ef",
+    "url": "/suvin-cosmetic-official-webpage/static/media/research_01.067de58d.png"
+  },
+  {
+    "revision": "07012b76cdfb89018df99ed5f7962b20",
+    "url": "/suvin-cosmetic-official-webpage/static/media/research_02.07012b76.png"
+  },
+  {
+    "revision": "b2cffcd9a37b1f80665ed16344cbb9b0",
+    "url": "/suvin-cosmetic-official-webpage/static/media/research_03.b2cffcd9.png"
+  },
+  {
+    "revision": "5701ac0369d05bd9a24980bb6ff50a27",
+    "url": "/suvin-cosmetic-official-webpage/static/media/research_04.5701ac03.png"
   },
   {
     "revision": "fd0857649a05f2058521b37ea47b6411",
@@ -186,5 +214,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e52b6088611bfcc0d562eea057d60a11",
     "url": "/suvin-cosmetic-official-webpage/static/media/telephone.e52b6088.jpg"
+  },
+  {
+    "revision": "4d460eba7ba86f6bf02371c443d97cb1",
+    "url": "/suvin-cosmetic-official-webpage/static/media/usa-flag-xs.4d460eba.png"
   }
 ]);
