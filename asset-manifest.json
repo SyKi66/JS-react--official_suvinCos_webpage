@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/suvin-cosmetic/static/css/main.5ef40a7d.chunk.css",
-    "main.js": "/suvin-cosmetic/static/js/main.e2069435.chunk.js",
-    "main.js.map": "/suvin-cosmetic/static/js/main.e2069435.chunk.js.map",
+    "main.js": "/suvin-cosmetic/static/js/main.aa04d647.chunk.js",
+    "main.js.map": "/suvin-cosmetic/static/js/main.aa04d647.chunk.js.map",
     "runtime-main.js": "/suvin-cosmetic/static/js/runtime-main.b0a5528e.js",
     "runtime-main.js.map": "/suvin-cosmetic/static/js/runtime-main.b0a5528e.js.map",
     "static/css/2.d194867c.chunk.css": "/suvin-cosmetic/static/css/2.d194867c.chunk.css",
-    "static/js/2.f0476dac.chunk.js": "/suvin-cosmetic/static/js/2.f0476dac.chunk.js",
-    "static/js/2.f0476dac.chunk.js.map": "/suvin-cosmetic/static/js/2.f0476dac.chunk.js.map",
+    "static/js/2.084a3fb2.chunk.js": "/suvin-cosmetic/static/js/2.084a3fb2.chunk.js",
+    "static/js/2.084a3fb2.chunk.js.map": "/suvin-cosmetic/static/js/2.084a3fb2.chunk.js.map",
     "index.html": "/suvin-cosmetic/index.html",
-    "precache-manifest.0476184818121ca1d453f729dcee1b06.js": "/suvin-cosmetic/precache-manifest.0476184818121ca1d453f729dcee1b06.js",
+    "precache-manifest.e203a189913d04c3d25ac4b6253d3b8f.js": "/suvin-cosmetic/precache-manifest.e203a189913d04c3d25ac4b6253d3b8f.js",
     "service-worker.js": "/suvin-cosmetic/service-worker.js",
     "static/css/2.d194867c.chunk.css.map": "/suvin-cosmetic/static/css/2.d194867c.chunk.css.map",
     "static/css/main.5ef40a7d.chunk.css.map": "/suvin-cosmetic/static/css/main.5ef40a7d.chunk.css.map",
-    "static/js/2.f0476dac.chunk.js.LICENSE.txt": "/suvin-cosmetic/static/js/2.f0476dac.chunk.js.LICENSE.txt",
+    "static/js/2.084a3fb2.chunk.js.LICENSE.txt": "/suvin-cosmetic/static/js/2.084a3fb2.chunk.js.LICENSE.txt",
     "static/media/Global_Suvin.jpg": "/suvin-cosmetic/static/media/Global_Suvin.a4bfddb1.jpg",
     "static/media/mdb.css": "/suvin-cosmetic/static/media/arrow_right.8ef6a08c.svg",
     "static/media/basicTech.png": "/suvin-cosmetic/static/media/basicTech.231d970c.png",
@@ -63,8 +63,8 @@
   "entrypoints": [
     "static/js/runtime-main.b0a5528e.js",
     "static/css/2.d194867c.chunk.css",
-    "static/js/2.f0476dac.chunk.js",
+    "static/js/2.084a3fb2.chunk.js",
     "static/css/main.5ef40a7d.chunk.css",
-    "static/js/main.e2069435.chunk.js"
+    "static/js/main.aa04d647.chunk.js"
   ]
 }
