@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b718ea40e631c06082006f2475fc718e",
+    "revision": "c5d0e8eb92f5e6c7a5eca28c902df223",
     "url": "/suvin-cosmetic/index.html"
   },
   {
