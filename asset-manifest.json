@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/suvin-cosmetic/static/css/main.2fe0960c.chunk.css",
-    "main.js": "/suvin-cosmetic/static/js/main.e51da6f6.chunk.js",
-    "main.js.map": "/suvin-cosmetic/static/js/main.e51da6f6.chunk.js.map",
+    "main.js": "/suvin-cosmetic/static/js/main.1240c28a.chunk.js",
+    "main.js.map": "/suvin-cosmetic/static/js/main.1240c28a.chunk.js.map",
     "runtime-main.js": "/suvin-cosmetic/static/js/runtime-main.b0a5528e.js",
     "runtime-main.js.map": "/suvin-cosmetic/static/js/runtime-main.b0a5528e.js.map",
     "static/css/2.aee5f09e.chunk.css": "/suvin-cosmetic/static/css/2.aee5f09e.chunk.css",
-    "static/js/2.c52b46a9.chunk.js": "/suvin-cosmetic/static/js/2.c52b46a9.chunk.js",
-    "static/js/2.c52b46a9.chunk.js.map": "/suvin-cosmetic/static/js/2.c52b46a9.chunk.js.map",
+    "static/js/2.01829060.chunk.js": "/suvin-cosmetic/static/js/2.01829060.chunk.js",
+    "static/js/2.01829060.chunk.js.map": "/suvin-cosmetic/static/js/2.01829060.chunk.js.map",
     "index.html": "/suvin-cosmetic/index.html",
-    "precache-manifest.6277827cfac4845f15de47a5bea04330.js": "/suvin-cosmetic/precache-manifest.6277827cfac4845f15de47a5bea04330.js",
+    "precache-manifest.dba5380c1608c196c5893714aa677fdf.js": "/suvin-cosmetic/precache-manifest.dba5380c1608c196c5893714aa677fdf.js",
     "service-worker.js": "/suvin-cosmetic/service-worker.js",
     "static/css/2.aee5f09e.chunk.css.map": "/suvin-cosmetic/static/css/2.aee5f09e.chunk.css.map",
     "static/css/main.2fe0960c.chunk.css.map": "/suvin-cosmetic/static/css/main.2fe0960c.chunk.css.map",
-    "static/js/2.c52b46a9.chunk.js.LICENSE.txt": "/suvin-cosmetic/static/js/2.c52b46a9.chunk.js.LICENSE.txt",
+    "static/js/2.01829060.chunk.js.LICENSE.txt": "/suvin-cosmetic/static/js/2.01829060.chunk.js.LICENSE.txt",
     "static/media/2019-12-31-sdfjijadisf.md": "/suvin-cosmetic/static/media/2019-12-31-sdfjijadisf.3dab2a9b.md",
     "static/media/2020-01-32-jjjjfjfjj.md": "/suvin-cosmetic/static/media/2020-01-32-jjjjfjfjj.7e9594de.md",
     "static/media/2020-02-10-sdjfija.md": "/suvin-cosmetic/static/media/2020-02-10-sdjfija.82be35f5.md",
@@ -65,8 +65,8 @@
   "entrypoints": [
     "static/js/runtime-main.b0a5528e.js",
     "static/css/2.aee5f09e.chunk.css",
-    "static/js/2.c52b46a9.chunk.js",
+    "static/js/2.01829060.chunk.js",
     "static/css/main.2fe0960c.chunk.css",
-    "static/js/main.e51da6f6.chunk.js"
+    "static/js/main.1240c28a.chunk.js"
   ]
 }

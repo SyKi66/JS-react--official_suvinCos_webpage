@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "69a4667b7a078cf8f553359a4f0c4db4",
+    "revision": "2cb8ba98c7fdd0aae37d77eca2252d63",
     "url": "/suvin-cosmetic/index.html"
   },
   {
-    "revision": "580a8340909e2e829c2e",
+    "revision": "72483a1fbd8b3461aabd",
     "url": "/suvin-cosmetic/static/css/2.aee5f09e.chunk.css"
   },
   {
-    "revision": "61cce48241c40c5f8e19",
+    "revision": "32aeb3c85f2c3b6b33c9",
     "url": "/suvin-cosmetic/static/css/main.2fe0960c.chunk.css"
   },
   {
-    "revision": "580a8340909e2e829c2e",
-    "url": "/suvin-cosmetic/static/js/2.c52b46a9.chunk.js"
+    "revision": "72483a1fbd8b3461aabd",
+    "url": "/suvin-cosmetic/static/js/2.01829060.chunk.js"
   },
   {
     "revision": "da3262d559ab56099dc2ed30993945c9",
-    "url": "/suvin-cosmetic/static/js/2.c52b46a9.chunk.js.LICENSE.txt"
+    "url": "/suvin-cosmetic/static/js/2.01829060.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "61cce48241c40c5f8e19",
-    "url": "/suvin-cosmetic/static/js/main.e51da6f6.chunk.js"
+    "revision": "32aeb3c85f2c3b6b33c9",
+    "url": "/suvin-cosmetic/static/js/main.1240c28a.chunk.js"
   },
   {
     "revision": "5d21e368cd329d18a06f",
