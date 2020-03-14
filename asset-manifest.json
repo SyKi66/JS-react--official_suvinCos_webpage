@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/suvin-cosmetic/static/css/main.2fe0960c.chunk.css",
-    "main.js": "/suvin-cosmetic/static/js/main.821680df.chunk.js",
-    "main.js.map": "/suvin-cosmetic/static/js/main.821680df.chunk.js.map",
+    "main.js": "/suvin-cosmetic/static/js/main.a0e923de.chunk.js",
+    "main.js.map": "/suvin-cosmetic/static/js/main.a0e923de.chunk.js.map",
     "runtime-main.js": "/suvin-cosmetic/static/js/runtime-main.b0a5528e.js",
     "runtime-main.js.map": "/suvin-cosmetic/static/js/runtime-main.b0a5528e.js.map",
     "static/css/2.aee5f09e.chunk.css": "/suvin-cosmetic/static/css/2.aee5f09e.chunk.css",
     "static/js/2.5c6d3a4d.chunk.js": "/suvin-cosmetic/static/js/2.5c6d3a4d.chunk.js",
     "static/js/2.5c6d3a4d.chunk.js.map": "/suvin-cosmetic/static/js/2.5c6d3a4d.chunk.js.map",
     "index.html": "/suvin-cosmetic/index.html",
-    "precache-manifest.66f9248b8b44c122d1eaa0e4cbe1644a.js": "/suvin-cosmetic/precache-manifest.66f9248b8b44c122d1eaa0e4cbe1644a.js",
+    "precache-manifest.7510945caca3c5ef0c14cc0c2c2d3623.js": "/suvin-cosmetic/precache-manifest.7510945caca3c5ef0c14cc0c2c2d3623.js",
     "service-worker.js": "/suvin-cosmetic/service-worker.js",
     "static/css/2.aee5f09e.chunk.css.map": "/suvin-cosmetic/static/css/2.aee5f09e.chunk.css.map",
     "static/css/main.2fe0960c.chunk.css.map": "/suvin-cosmetic/static/css/main.2fe0960c.chunk.css.map",
     "static/js/2.5c6d3a4d.chunk.js.LICENSE.txt": "/suvin-cosmetic/static/js/2.5c6d3a4d.chunk.js.LICENSE.txt",
     "static/media/2020-01-32-jjjjfjfjj.md": "/suvin-cosmetic/static/media/2020-01-32-jjjjfjfjj.7e9594de.md",
     "static/media/2020-02-10-sdjfija.md": "/suvin-cosmetic/static/media/2020-02-10-sdjfija.82be35f5.md",
-    "static/media/2020-03-12-test.txt": "/suvin-cosmetic/static/media/2020-03-12-test.50bbd8ef.txt",
+    "static/media/2020-03-12-test.txt": "/suvin-cosmetic/static/media/2020-03-12-test.b9249708.txt",
     "static/media/Global_Suvin.jpg": "/suvin-cosmetic/static/media/Global_Suvin.a4bfddb1.jpg",
     "static/media/mdb.css": "/suvin-cosmetic/static/media/arrow_right.8ef6a08c.svg",
     "static/media/basicTech.png": "/suvin-cosmetic/static/media/basicTech.231d970c.png",
@@ -66,6 +66,6 @@
     "static/css/2.aee5f09e.chunk.css",
     "static/js/2.5c6d3a4d.chunk.js",
     "static/css/main.2fe0960c.chunk.css",
-    "static/js/main.821680df.chunk.js"
+    "static/js/main.a0e923de.chunk.js"
   ]
 }
