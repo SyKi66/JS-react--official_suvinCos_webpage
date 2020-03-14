@@ -1,35 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6874a3ecd99884d24859ba380b5a35f0",
+    "revision": "f92caa6745794e6772ffab5ee666e94d",
     "url": "/suvin-cosmetic/index.html"
   },
   {
-    "revision": "9d8019e136618892196f",
+    "revision": "e57cf19063bd905bdf3b",
     "url": "/suvin-cosmetic/static/css/2.aee5f09e.chunk.css"
   },
   {
-    "revision": "f92e69083b92976a3162",
+    "revision": "68566bbfe07c891aa091",
     "url": "/suvin-cosmetic/static/css/main.2fe0960c.chunk.css"
   },
   {
-    "revision": "9d8019e136618892196f",
-    "url": "/suvin-cosmetic/static/js/2.97b6a6cb.chunk.js"
+    "revision": "e57cf19063bd905bdf3b",
+    "url": "/suvin-cosmetic/static/js/2.5c6d3a4d.chunk.js"
   },
   {
     "revision": "da3262d559ab56099dc2ed30993945c9",
-    "url": "/suvin-cosmetic/static/js/2.97b6a6cb.chunk.js.LICENSE.txt"
+    "url": "/suvin-cosmetic/static/js/2.5c6d3a4d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f92e69083b92976a3162",
-    "url": "/suvin-cosmetic/static/js/main.590077af.chunk.js"
+    "revision": "68566bbfe07c891aa091",
+    "url": "/suvin-cosmetic/static/js/main.821680df.chunk.js"
   },
   {
     "revision": "5d21e368cd329d18a06f",
     "url": "/suvin-cosmetic/static/js/runtime-main.b0a5528e.js"
-  },
-  {
-    "revision": "3dab2a9b148bd2fa8a94c9ba07a4fc66",
-    "url": "/suvin-cosmetic/static/media/2019-12-31-sdfjijadisf.3dab2a9b.md"
   },
   {
     "revision": "7e9594de0669612d113a5698101c328a",
@@ -40,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suvin-cosmetic/static/media/2020-02-10-sdjfija.82be35f5.md"
   },
   {
-    "revision": "c67aff365fd5333963124dff2df41d34",
-    "url": "/suvin-cosmetic/static/media/2020-03-12-test.c67aff36.md"
+    "revision": "50bbd8ef5ea7255f15f8bdb3aa037246",
+    "url": "/suvin-cosmetic/static/media/2020-03-12-test.50bbd8ef.txt"
   },
   {
     "revision": "a4bfddb15312ff7b02f3444fc366850e",
