@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "44205bbcf751f6cd686ee8f8c680eb26",
+    "revision": "24483702ec22c1b3ff1247de66e951b9",
     "url": "/suvin-cosmetic/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suvin-cosmetic/static/css/2.aee5f09e.chunk.css"
   },
   {
-    "revision": "fd2a8dab90b0a6156627",
+    "revision": "27bfa18b1bbdaa2367fc",
     "url": "/suvin-cosmetic/static/css/main.2fe0960c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suvin-cosmetic/static/js/2.70e68280.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fd2a8dab90b0a6156627",
-    "url": "/suvin-cosmetic/static/js/main.134c2b3d.chunk.js"
+    "revision": "27bfa18b1bbdaa2367fc",
+    "url": "/suvin-cosmetic/static/js/main.709ff446.chunk.js"
   },
   {
     "revision": "5d21e368cd329d18a06f",
