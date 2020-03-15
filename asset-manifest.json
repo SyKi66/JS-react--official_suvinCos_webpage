@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/suvin-cosmetic/static/css/main.2fe0960c.chunk.css",
-    "main.js": "/suvin-cosmetic/static/js/main.de646883.chunk.js",
-    "main.js.map": "/suvin-cosmetic/static/js/main.de646883.chunk.js.map",
+    "main.js": "/suvin-cosmetic/static/js/main.91457564.chunk.js",
+    "main.js.map": "/suvin-cosmetic/static/js/main.91457564.chunk.js.map",
     "runtime-main.js": "/suvin-cosmetic/static/js/runtime-main.b0a5528e.js",
     "runtime-main.js.map": "/suvin-cosmetic/static/js/runtime-main.b0a5528e.js.map",
     "static/css/2.aee5f09e.chunk.css": "/suvin-cosmetic/static/css/2.aee5f09e.chunk.css",
-    "static/js/2.70e68280.chunk.js": "/suvin-cosmetic/static/js/2.70e68280.chunk.js",
-    "static/js/2.70e68280.chunk.js.map": "/suvin-cosmetic/static/js/2.70e68280.chunk.js.map",
+    "static/js/2.e20625cb.chunk.js": "/suvin-cosmetic/static/js/2.e20625cb.chunk.js",
+    "static/js/2.e20625cb.chunk.js.map": "/suvin-cosmetic/static/js/2.e20625cb.chunk.js.map",
     "index.html": "/suvin-cosmetic/index.html",
-    "precache-manifest.cc1a2fe2c2b4aa2db54c872a976689ee.js": "/suvin-cosmetic/precache-manifest.cc1a2fe2c2b4aa2db54c872a976689ee.js",
+    "precache-manifest.addcb43d20dae5145e74ef7dd28210b3.js": "/suvin-cosmetic/precache-manifest.addcb43d20dae5145e74ef7dd28210b3.js",
     "service-worker.js": "/suvin-cosmetic/service-worker.js",
     "static/css/2.aee5f09e.chunk.css.map": "/suvin-cosmetic/static/css/2.aee5f09e.chunk.css.map",
     "static/css/main.2fe0960c.chunk.css.map": "/suvin-cosmetic/static/css/main.2fe0960c.chunk.css.map",
-    "static/js/2.70e68280.chunk.js.LICENSE.txt": "/suvin-cosmetic/static/js/2.70e68280.chunk.js.LICENSE.txt",
+    "static/js/2.e20625cb.chunk.js.LICENSE.txt": "/suvin-cosmetic/static/js/2.e20625cb.chunk.js.LICENSE.txt",
     "static/media/2015-04-28-notice.md": "/suvin-cosmetic/static/media/2015-04-28-notice.004af2b5.md",
     "static/media/2015-10-01-thailand-exhibition.md": "/suvin-cosmetic/static/media/2015-10-01-thailand-exhibition.b58f746d.md",
     "static/media/2015-10-01-thailand-exhibition2.md": "/suvin-cosmetic/static/media/2015-10-01-thailand-exhibition2.fad85914.md",
@@ -93,8 +93,8 @@
   "entrypoints": [
     "static/js/runtime-main.b0a5528e.js",
     "static/css/2.aee5f09e.chunk.css",
-    "static/js/2.70e68280.chunk.js",
+    "static/js/2.e20625cb.chunk.js",
     "static/css/main.2fe0960c.chunk.css",
-    "static/js/main.de646883.chunk.js"
+    "static/js/main.91457564.chunk.js"
   ]
 }
