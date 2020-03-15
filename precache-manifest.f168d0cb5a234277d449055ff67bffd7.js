@@ -1,51 +1,67 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8e027f1ab7bef844ac43389a1476c9fd",
+    "revision": "5c2ab57c2c1bf09e702c1db4f754788a",
     "url": "/suvin-cosmetic/index.html"
   },
   {
-    "revision": "5ab8319977b8a3f8ec52",
+    "revision": "a1e4b45d275b1f65c041",
     "url": "/suvin-cosmetic/static/css/2.aee5f09e.chunk.css"
   },
   {
-    "revision": "c0212978ef1bf0da1b7a",
+    "revision": "58f84a2e2936c68b969f",
     "url": "/suvin-cosmetic/static/css/main.2fe0960c.chunk.css"
   },
   {
-    "revision": "5ab8319977b8a3f8ec52",
-    "url": "/suvin-cosmetic/static/js/2.5d91841a.chunk.js"
+    "revision": "a1e4b45d275b1f65c041",
+    "url": "/suvin-cosmetic/static/js/2.9e731f03.chunk.js"
   },
   {
     "revision": "da3262d559ab56099dc2ed30993945c9",
-    "url": "/suvin-cosmetic/static/js/2.5d91841a.chunk.js.LICENSE.txt"
+    "url": "/suvin-cosmetic/static/js/2.9e731f03.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c0212978ef1bf0da1b7a",
-    "url": "/suvin-cosmetic/static/js/main.e8ca47a8.chunk.js"
+    "revision": "58f84a2e2936c68b969f",
+    "url": "/suvin-cosmetic/static/js/main.3f10eb48.chunk.js"
   },
   {
     "revision": "5d21e368cd329d18a06f",
     "url": "/suvin-cosmetic/static/js/runtime-main.b0a5528e.js"
   },
   {
-    "revision": "3dab2a9b148bd2fa8a94c9ba07a4fc66",
-    "url": "/suvin-cosmetic/static/media/2019-12-31-sdfjijadisf.3dab2a9b.md"
+    "revision": "b5ce3fd79c9d8b467e1417cc45041643",
+    "url": "/suvin-cosmetic/static/media/2015-11-08-thailand-exhibition.b5ce3fd7.md"
   },
   {
-    "revision": "7e9594de0669612d113a5698101c328a",
-    "url": "/suvin-cosmetic/static/media/2020-01-32-jjjjfjfjj.7e9594de.md"
+    "revision": "fa44582fe0d147a8933d6c4b365692ff",
+    "url": "/suvin-cosmetic/static/media/2015-11-08-thailand-exhibition2.fa44582f.md"
   },
   {
-    "revision": "82be35f589f7eeadfe96010b9b2bc702",
-    "url": "/suvin-cosmetic/static/media/2020-02-10-sdjfija.82be35f5.md"
+    "revision": "e71d1e410376fd2046b4fa4725e1e430",
+    "url": "/suvin-cosmetic/static/media/2015-11-09-g-fair.e71d1e41.md"
   },
   {
-    "revision": "968cd45d57747edde59b6a7e56200188",
-    "url": "/suvin-cosmetic/static/media/2020-03-12-test.968cd45d.md"
+    "revision": "606ea4c3d7364d7a023c90a7b445dc28",
+    "url": "/suvin-cosmetic/static/media/2015-11-09-g-fair2.606ea4c3.md"
   },
   {
-    "revision": "e9b1d690f32d18a88f28ad6ec988edb7",
-    "url": "/suvin-cosmetic/static/media/2022-05-23-teeest.e9b1d690.md"
+    "revision": "a782db32bee07ce81ba7378870c7b20c",
+    "url": "/suvin-cosmetic/static/media/2016-06-04-shanghai-exhibition.a782db32.md"
+  },
+  {
+    "revision": "e53ed8878666dba1bdddffe17a890a57",
+    "url": "/suvin-cosmetic/static/media/2016-06-05-guangzhou-fair.e53ed887.md"
+  },
+  {
+    "revision": "d0b4ef4835e59ad0dc42131e3b41cb97",
+    "url": "/suvin-cosmetic/static/media/2016-06-25-harbin-fair.d0b4ef48.md"
+  },
+  {
+    "revision": "17aa297128151ef806ba466d2b00da08",
+    "url": "/suvin-cosmetic/static/media/2016-11-06-chongqing-fair.17aa2971.md"
+  },
+  {
+    "revision": "d4b0265e799dd0e2836fe0f5deb4e980",
+    "url": "/suvin-cosmetic/static/media/2016-11-06-chongqing-fair2.d4b0265e.md"
   },
   {
     "revision": "a4bfddb15312ff7b02f3444fc366850e",
