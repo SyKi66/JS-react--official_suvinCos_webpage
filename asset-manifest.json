@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/suvin-cosmetic/static/css/main.2fe0960c.chunk.css",
-    "main.js": "/suvin-cosmetic/static/js/main.4eb1d12a.chunk.js",
-    "main.js.map": "/suvin-cosmetic/static/js/main.4eb1d12a.chunk.js.map",
+    "main.js": "/suvin-cosmetic/static/js/main.de646883.chunk.js",
+    "main.js.map": "/suvin-cosmetic/static/js/main.de646883.chunk.js.map",
     "runtime-main.js": "/suvin-cosmetic/static/js/runtime-main.b0a5528e.js",
     "runtime-main.js.map": "/suvin-cosmetic/static/js/runtime-main.b0a5528e.js.map",
     "static/css/2.aee5f09e.chunk.css": "/suvin-cosmetic/static/css/2.aee5f09e.chunk.css",
     "static/js/2.70e68280.chunk.js": "/suvin-cosmetic/static/js/2.70e68280.chunk.js",
     "static/js/2.70e68280.chunk.js.map": "/suvin-cosmetic/static/js/2.70e68280.chunk.js.map",
     "index.html": "/suvin-cosmetic/index.html",
-    "precache-manifest.db93ca427e00ab20bc69ce420de3379f.js": "/suvin-cosmetic/precache-manifest.db93ca427e00ab20bc69ce420de3379f.js",
+    "precache-manifest.cc1a2fe2c2b4aa2db54c872a976689ee.js": "/suvin-cosmetic/precache-manifest.cc1a2fe2c2b4aa2db54c872a976689ee.js",
     "service-worker.js": "/suvin-cosmetic/service-worker.js",
     "static/css/2.aee5f09e.chunk.css.map": "/suvin-cosmetic/static/css/2.aee5f09e.chunk.css.map",
     "static/css/main.2fe0960c.chunk.css.map": "/suvin-cosmetic/static/css/main.2fe0960c.chunk.css.map",
@@ -95,6 +95,6 @@
     "static/css/2.aee5f09e.chunk.css",
     "static/js/2.70e68280.chunk.js",
     "static/css/main.2fe0960c.chunk.css",
-    "static/js/main.4eb1d12a.chunk.js"
+    "static/js/main.de646883.chunk.js"
   ]
 }
