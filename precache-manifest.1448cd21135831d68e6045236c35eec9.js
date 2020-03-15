@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8f12d7bf6e5fb5aa7e4ca83aff71a58b",
+    "revision": "11206d13fdbf4031bb81d4a31caebce2",
     "url": "/suvin-cosmetic/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suvin-cosmetic/static/css/2.aee5f09e.chunk.css"
   },
   {
-    "revision": "a1b351f744606702fda2",
+    "revision": "b59ed91c284092583c78",
     "url": "/suvin-cosmetic/static/css/main.2fe0960c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suvin-cosmetic/static/js/2.44f536da.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a1b351f744606702fda2",
-    "url": "/suvin-cosmetic/static/js/main.38de64cc.chunk.js"
+    "revision": "b59ed91c284092583c78",
+    "url": "/suvin-cosmetic/static/js/main.2508b3eb.chunk.js"
   },
   {
     "revision": "5d21e368cd329d18a06f",
@@ -92,8 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suvin-cosmetic/static/media/2017-08-25- kunming-fair.2210055c.md"
   },
   {
-    "revision": "b90544ec3fce4336795e8dd483a48f5b",
-    "url": "/suvin-cosmetic/static/media/2017-09-zhuhai-fair.b90544ec.md"
+    "revision": "e9b14abb0dbaf6eb9b3e52d36318f914",
+    "url": "/suvin-cosmetic/static/media/2017-09-30-zhuhai-fair.e9b14abb.md"
   },
   {
     "revision": "0f5d70eeaaaf64308d6aa770ef659967",

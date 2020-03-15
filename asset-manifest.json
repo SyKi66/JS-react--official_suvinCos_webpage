@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/suvin-cosmetic/static/css/main.2fe0960c.chunk.css",
-    "main.js": "/suvin-cosmetic/static/js/main.38de64cc.chunk.js",
-    "main.js.map": "/suvin-cosmetic/static/js/main.38de64cc.chunk.js.map",
+    "main.js": "/suvin-cosmetic/static/js/main.2508b3eb.chunk.js",
+    "main.js.map": "/suvin-cosmetic/static/js/main.2508b3eb.chunk.js.map",
     "runtime-main.js": "/suvin-cosmetic/static/js/runtime-main.b0a5528e.js",
     "runtime-main.js.map": "/suvin-cosmetic/static/js/runtime-main.b0a5528e.js.map",
     "static/css/2.aee5f09e.chunk.css": "/suvin-cosmetic/static/css/2.aee5f09e.chunk.css",
     "static/js/2.44f536da.chunk.js": "/suvin-cosmetic/static/js/2.44f536da.chunk.js",
     "static/js/2.44f536da.chunk.js.map": "/suvin-cosmetic/static/js/2.44f536da.chunk.js.map",
     "index.html": "/suvin-cosmetic/index.html",
-    "precache-manifest.a6562d57350bd44aa4770bc5df08684a.js": "/suvin-cosmetic/precache-manifest.a6562d57350bd44aa4770bc5df08684a.js",
+    "precache-manifest.1448cd21135831d68e6045236c35eec9.js": "/suvin-cosmetic/precache-manifest.1448cd21135831d68e6045236c35eec9.js",
     "service-worker.js": "/suvin-cosmetic/service-worker.js",
     "static/css/2.aee5f09e.chunk.css.map": "/suvin-cosmetic/static/css/2.aee5f09e.chunk.css.map",
     "static/css/main.2fe0960c.chunk.css.map": "/suvin-cosmetic/static/css/main.2fe0960c.chunk.css.map",
@@ -30,7 +30,7 @@
     "static/media/2017-06-26-harbin-fair.md": "/suvin-cosmetic/static/media/2017-06-26-harbin-fair.b369df8c.md",
     "static/media/2017-07-30- thailand-fair.md": "/suvin-cosmetic/static/media/2017-07-30- thailand-fair.349fcf79.md",
     "static/media/2017-08-25- kunming-fair.md": "/suvin-cosmetic/static/media/2017-08-25- kunming-fair.2210055c.md",
-    "static/media/2017-09-zhuhai-fair.md": "/suvin-cosmetic/static/media/2017-09-zhuhai-fair.b90544ec.md",
+    "static/media/2017-09-30-zhuhai-fair.md": "/suvin-cosmetic/static/media/2017-09-30-zhuhai-fair.e9b14abb.md",
     "static/media/2017-10-27-hongkong-mega-show.md": "/suvin-cosmetic/static/media/2017-10-27-hongkong-mega-show.0f5d70ee.md",
     "static/media/2017-12-07-venture-festival.md": "/suvin-cosmetic/static/media/2017-12-07-venture-festival.04e0903f.md",
     "static/media/2018-04-30-shenzhen-fair.md": "/suvin-cosmetic/static/media/2018-04-30-shenzhen-fair.ade43a5c.md",
@@ -95,6 +95,6 @@
     "static/css/2.aee5f09e.chunk.css",
     "static/js/2.44f536da.chunk.js",
     "static/css/main.2fe0960c.chunk.css",
-    "static/js/main.38de64cc.chunk.js"
+    "static/js/main.2508b3eb.chunk.js"
   ]
 }
