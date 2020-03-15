@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/suvin-cosmetic/precache-manifest.8319eddb0ad3ecd4a0bb4a209e8c2052.js"
+  "/suvin-cosmetic/precache-manifest.b8405bfdb6ebf4830fb8254a0682553a.js"
 );
 
 self.addEventListener('message', (event) => {
