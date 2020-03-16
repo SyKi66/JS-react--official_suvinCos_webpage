@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/suvin-cosmetic/static/css/main.2fe0960c.chunk.css",
-    "main.js": "/suvin-cosmetic/static/js/main.32db8be8.chunk.js",
-    "main.js.map": "/suvin-cosmetic/static/js/main.32db8be8.chunk.js.map",
+    "main.js": "/suvin-cosmetic/static/js/main.a0abd2a0.chunk.js",
+    "main.js.map": "/suvin-cosmetic/static/js/main.a0abd2a0.chunk.js.map",
     "runtime-main.js": "/suvin-cosmetic/static/js/runtime-main.b0a5528e.js",
     "runtime-main.js.map": "/suvin-cosmetic/static/js/runtime-main.b0a5528e.js.map",
     "static/css/2.aee5f09e.chunk.css": "/suvin-cosmetic/static/css/2.aee5f09e.chunk.css",
-    "static/js/2.bb59a790.chunk.js": "/suvin-cosmetic/static/js/2.bb59a790.chunk.js",
-    "static/js/2.bb59a790.chunk.js.map": "/suvin-cosmetic/static/js/2.bb59a790.chunk.js.map",
+    "static/js/2.53be85ca.chunk.js": "/suvin-cosmetic/static/js/2.53be85ca.chunk.js",
+    "static/js/2.53be85ca.chunk.js.map": "/suvin-cosmetic/static/js/2.53be85ca.chunk.js.map",
     "index.html": "/suvin-cosmetic/index.html",
-    "precache-manifest.a8b04d05f578799100d552fbc5ebf40e.js": "/suvin-cosmetic/precache-manifest.a8b04d05f578799100d552fbc5ebf40e.js",
+    "precache-manifest.db4984bdc7ace06cb053fbb91e5038a1.js": "/suvin-cosmetic/precache-manifest.db4984bdc7ace06cb053fbb91e5038a1.js",
     "service-worker.js": "/suvin-cosmetic/service-worker.js",
     "static/css/2.aee5f09e.chunk.css.map": "/suvin-cosmetic/static/css/2.aee5f09e.chunk.css.map",
     "static/css/main.2fe0960c.chunk.css.map": "/suvin-cosmetic/static/css/main.2fe0960c.chunk.css.map",
-    "static/js/2.bb59a790.chunk.js.LICENSE.txt": "/suvin-cosmetic/static/js/2.bb59a790.chunk.js.LICENSE.txt",
+    "static/js/2.53be85ca.chunk.js.LICENSE.txt": "/suvin-cosmetic/static/js/2.53be85ca.chunk.js.LICENSE.txt",
     "static/media/2015-04-28-notice.md": "/suvin-cosmetic/static/media/2015-04-28-notice.004af2b5.md",
     "static/media/2015-10-01-thailand-exhibition.md": "/suvin-cosmetic/static/media/2015-10-01-thailand-exhibition.b58f746d.md",
     "static/media/2015-10-01-thailand-exhibition2.md": "/suvin-cosmetic/static/media/2015-10-01-thailand-exhibition2.fad85914.md",
@@ -44,7 +44,7 @@
     "static/media/2019-08-04-philippines-expo.md": "/suvin-cosmetic/static/media/2019-08-04-philippines-expo.8a3813e4.md",
     "static/media/2019-10-15-beijing.md": "/suvin-cosmetic/static/media/2019-10-15-beijing.7b994367.md",
     "static/media/2019-11-02-chengdu-fair.md": "/suvin-cosmetic/static/media/2019-11-02-chengdu-fair.147807a5.md",
-    "static/media/2019-11-02-chengdu-fair2.md": "/suvin-cosmetic/static/media/2019-11-02-chengdu-fair2.d8246274.md",
+    "static/media/2019-11-02-chengdu-fair2.md": "/suvin-cosmetic/static/media/2019-11-02-chengdu-fair2.74a4bebf.md",
     "static/media/2019-12-29-chingdao-fair.md": "/suvin-cosmetic/static/media/2019-12-29-chingdao-fair.4ba1eb08.md",
     "static/media/Global_Suvin.jpg": "/suvin-cosmetic/static/media/Global_Suvin.a4bfddb1.jpg",
     "static/media/mdb.css": "/suvin-cosmetic/static/media/arrow_right.8ef6a08c.svg",
@@ -93,8 +93,8 @@
   "entrypoints": [
     "static/js/runtime-main.b0a5528e.js",
     "static/css/2.aee5f09e.chunk.css",
-    "static/js/2.bb59a790.chunk.js",
+    "static/js/2.53be85ca.chunk.js",
     "static/css/main.2fe0960c.chunk.css",
-    "static/js/main.32db8be8.chunk.js"
+    "static/js/main.a0abd2a0.chunk.js"
   ]
 }
