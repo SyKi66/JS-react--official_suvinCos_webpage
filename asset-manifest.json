@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/suvin-cosmetic/static/css/main.bdb5836d.chunk.css",
-    "main.js": "/suvin-cosmetic/static/js/main.adc30218.chunk.js",
-    "main.js.map": "/suvin-cosmetic/static/js/main.adc30218.chunk.js.map",
+    "main.js": "/suvin-cosmetic/static/js/main.aa1f05eb.chunk.js",
+    "main.js.map": "/suvin-cosmetic/static/js/main.aa1f05eb.chunk.js.map",
     "runtime-main.js": "/suvin-cosmetic/static/js/runtime-main.b0a5528e.js",
     "runtime-main.js.map": "/suvin-cosmetic/static/js/runtime-main.b0a5528e.js.map",
     "static/css/2.aee5f09e.chunk.css": "/suvin-cosmetic/static/css/2.aee5f09e.chunk.css",
-    "static/js/2.894375a4.chunk.js": "/suvin-cosmetic/static/js/2.894375a4.chunk.js",
-    "static/js/2.894375a4.chunk.js.map": "/suvin-cosmetic/static/js/2.894375a4.chunk.js.map",
+    "static/js/2.bfe5bcb1.chunk.js": "/suvin-cosmetic/static/js/2.bfe5bcb1.chunk.js",
+    "static/js/2.bfe5bcb1.chunk.js.map": "/suvin-cosmetic/static/js/2.bfe5bcb1.chunk.js.map",
     "index.html": "/suvin-cosmetic/index.html",
-    "precache-manifest.f350eedddc32f548788955442b07f9f7.js": "/suvin-cosmetic/precache-manifest.f350eedddc32f548788955442b07f9f7.js",
+    "precache-manifest.6e0afd12c85e7635c0a3e9e4589ca231.js": "/suvin-cosmetic/precache-manifest.6e0afd12c85e7635c0a3e9e4589ca231.js",
     "service-worker.js": "/suvin-cosmetic/service-worker.js",
     "static/css/2.aee5f09e.chunk.css.map": "/suvin-cosmetic/static/css/2.aee5f09e.chunk.css.map",
     "static/css/main.bdb5836d.chunk.css.map": "/suvin-cosmetic/static/css/main.bdb5836d.chunk.css.map",
-    "static/js/2.894375a4.chunk.js.LICENSE.txt": "/suvin-cosmetic/static/js/2.894375a4.chunk.js.LICENSE.txt",
+    "static/js/2.bfe5bcb1.chunk.js.LICENSE.txt": "/suvin-cosmetic/static/js/2.bfe5bcb1.chunk.js.LICENSE.txt",
     "static/media/2015-04-14-pore-reducing-pack.premium.md": "/suvin-cosmetic/static/media/2015-04-14-pore-reducing-pack.premium.20c32520.md",
     "static/media/2015-04-15-snail-cream.premium.md": "/suvin-cosmetic/static/media/2015-04-15-snail-cream.premium.1f9f649e.md",
     "static/media/2015-04-17-snail-bb-cream.special.md": "/suvin-cosmetic/static/media/2015-04-17-snail-bb-cream.special.4dcfafcf.md",
@@ -110,8 +110,8 @@
   "entrypoints": [
     "static/js/runtime-main.b0a5528e.js",
     "static/css/2.aee5f09e.chunk.css",
-    "static/js/2.894375a4.chunk.js",
+    "static/js/2.bfe5bcb1.chunk.js",
     "static/css/main.bdb5836d.chunk.css",
-    "static/js/main.adc30218.chunk.js"
+    "static/js/main.aa1f05eb.chunk.js"
   ]
 }
