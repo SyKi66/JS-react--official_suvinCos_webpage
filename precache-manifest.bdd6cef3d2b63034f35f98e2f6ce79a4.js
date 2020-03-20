@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e41068f6a06ef160faeb55661e8a48e",
+    "revision": "101ecfd2ad48a8deaf839ca6d78a58e2",
     "url": "/suvin-cosmetic/index.html"
   },
   {
-    "revision": "53977e7a47fae253319a",
+    "revision": "fd281130c6ac419d0f68",
     "url": "/suvin-cosmetic/static/css/2.aee5f09e.chunk.css"
   },
   {
-    "revision": "84e1a43b503d783f78e7",
+    "revision": "178101ebff578d8139be",
     "url": "/suvin-cosmetic/static/css/main.bdb5836d.chunk.css"
   },
   {
-    "revision": "53977e7a47fae253319a",
-    "url": "/suvin-cosmetic/static/js/2.bfe5bcb1.chunk.js"
+    "revision": "fd281130c6ac419d0f68",
+    "url": "/suvin-cosmetic/static/js/2.c74e45b6.chunk.js"
   },
   {
     "revision": "da3262d559ab56099dc2ed30993945c9",
-    "url": "/suvin-cosmetic/static/js/2.bfe5bcb1.chunk.js.LICENSE.txt"
+    "url": "/suvin-cosmetic/static/js/2.c74e45b6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "84e1a43b503d783f78e7",
-    "url": "/suvin-cosmetic/static/js/main.aa1f05eb.chunk.js"
+    "revision": "178101ebff578d8139be",
+    "url": "/suvin-cosmetic/static/js/main.799ae292.chunk.js"
   },
   {
     "revision": "5d21e368cd329d18a06f",
@@ -212,8 +212,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suvin-cosmetic/static/media/2019-12-29-chingdao-fair.posts.20f3c58d.md"
   },
   {
-    "revision": "52c52cc179d17756b946484095d8cbd0",
-    "url": "/suvin-cosmetic/static/media/2020-01-12-vitamin-e-skin-softner.others.52c52cc1.md"
+    "revision": "f819184e7e6e3fc206d922e4e1c73022",
+    "url": "/suvin-cosmetic/static/media/2020-01-12-vitamin-e-skin-softner.others.f819184e.md"
   },
   {
     "revision": "2f2f2b70cd42af5f77ee8303ef2e8229",
