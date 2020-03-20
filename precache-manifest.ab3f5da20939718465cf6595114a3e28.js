@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2666de7b447d26137fa929c85983158f",
+    "revision": "78bc0f8cb7621d6f6c482fb21357014c",
     "url": "/suvin-cosmetic/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suvin-cosmetic/static/css/2.aee5f09e.chunk.css"
   },
   {
-    "revision": "bc622f1c85f94f6e6af9",
-    "url": "/suvin-cosmetic/static/css/main.4854acba.chunk.css"
+    "revision": "4fdce528b762c7d05d4e",
+    "url": "/suvin-cosmetic/static/css/main.72adfc7c.chunk.css"
   },
   {
     "revision": "f96b0af73e4ffc6ce02c",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suvin-cosmetic/static/js/2.7fb45b81.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bc622f1c85f94f6e6af9",
-    "url": "/suvin-cosmetic/static/js/main.3aa4e479.chunk.js"
+    "revision": "4fdce528b762c7d05d4e",
+    "url": "/suvin-cosmetic/static/js/main.6f96bd11.chunk.js"
   },
   {
     "revision": "5d21e368cd329d18a06f",
@@ -160,8 +160,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suvin-cosmetic/static/media/2018-06-28-russia-summit2.posts.e8c23d95.md"
   },
   {
-    "revision": "459dc3e2d40cf89a96b2c30720a48f53",
-    "url": "/suvin-cosmetic/static/media/2018-07-29-pore-control-3-step.premium.459dc3e2.md"
+    "revision": "33caca1ce96731ad7b13ba2f386ec134",
+    "url": "/suvin-cosmetic/static/media/2018-07-29-pore-control-3-step.premium.33caca1c.md"
   },
   {
     "revision": "ea3d3e6ef8df7eb1770bd5786f2df71c",
