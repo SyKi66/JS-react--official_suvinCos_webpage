@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/suvin-cosmetic/static/css/main.7dfb5d96.chunk.css",
-    "main.js": "/suvin-cosmetic/static/js/main.49a06b94.chunk.js",
-    "main.js.map": "/suvin-cosmetic/static/js/main.49a06b94.chunk.js.map",
+    "main.css": "/suvin-cosmetic/static/css/main.9f387edc.chunk.css",
+    "main.js": "/suvin-cosmetic/static/js/main.f3375e38.chunk.js",
+    "main.js.map": "/suvin-cosmetic/static/js/main.f3375e38.chunk.js.map",
     "runtime-main.js": "/suvin-cosmetic/static/js/runtime-main.b0a5528e.js",
     "runtime-main.js.map": "/suvin-cosmetic/static/js/runtime-main.b0a5528e.js.map",
     "static/css/2.aee5f09e.chunk.css": "/suvin-cosmetic/static/css/2.aee5f09e.chunk.css",
     "static/js/2.0781bb16.chunk.js": "/suvin-cosmetic/static/js/2.0781bb16.chunk.js",
     "static/js/2.0781bb16.chunk.js.map": "/suvin-cosmetic/static/js/2.0781bb16.chunk.js.map",
     "index.html": "/suvin-cosmetic/index.html",
-    "precache-manifest.e9f492d32dc20665fd15cb09238bab9d.js": "/suvin-cosmetic/precache-manifest.e9f492d32dc20665fd15cb09238bab9d.js",
+    "precache-manifest.7ee1a9ae810259677bf10a80ce2fc5c1.js": "/suvin-cosmetic/precache-manifest.7ee1a9ae810259677bf10a80ce2fc5c1.js",
     "service-worker.js": "/suvin-cosmetic/service-worker.js",
     "static/css/2.aee5f09e.chunk.css.map": "/suvin-cosmetic/static/css/2.aee5f09e.chunk.css.map",
-    "static/css/main.7dfb5d96.chunk.css.map": "/suvin-cosmetic/static/css/main.7dfb5d96.chunk.css.map",
+    "static/css/main.9f387edc.chunk.css.map": "/suvin-cosmetic/static/css/main.9f387edc.chunk.css.map",
     "static/js/2.0781bb16.chunk.js.LICENSE.txt": "/suvin-cosmetic/static/js/2.0781bb16.chunk.js.LICENSE.txt",
     "static/media/2015-04-14-pore-reducing-pack.premium.md": "/suvin-cosmetic/static/media/2015-04-14-pore-reducing-pack.premium.f356805c.md",
     "static/media/2015-04-15-snail-cream.premium.md": "/suvin-cosmetic/static/media/2015-04-15-snail-cream.premium.d604d3fb.md",
@@ -69,7 +69,7 @@
     "static/js/runtime-main.b0a5528e.js",
     "static/css/2.aee5f09e.chunk.css",
     "static/js/2.0781bb16.chunk.js",
-    "static/css/main.7dfb5d96.chunk.css",
-    "static/js/main.49a06b94.chunk.js"
+    "static/css/main.9f387edc.chunk.css",
+    "static/js/main.f3375e38.chunk.js"
   ]
 }
