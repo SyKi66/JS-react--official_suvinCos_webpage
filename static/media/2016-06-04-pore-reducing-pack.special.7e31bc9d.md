@@ -1,10 +1,14 @@
 ---
-title: "Arsia Pore Reducing Pack (New) \48,000"
+title: "Arsia Pore Reducing Pack (New) ₩48,000"
 date: "2016-06-04"
 writer: "관리자"
 disqus: "true"
 thumbnail: "https://user-images.githubusercontent.com/59393359/77165135-10d2be80-6af5-11ea-8d83-b42b90cfc0d9.png"
 ---
+
+<div style="text-align: center; font-size: xx-large; padding: 10px 0px;">
+    <a href="https://front.wemakeprice.com/product/819960997?search_keyword=%25EC%2595%2584%25EB%25A5%25B4%25EC%258B%259C%25EC%2595%2584&_service=5&_no=2">제품 구매하기</a>
+</div>
 
 <img style="width:50%; padding: 10px 0px;" src="https://user-images.githubusercontent.com/59393359/76975335-c0812280-6975-11ea-910d-0e446388dd00.png" />
 
@@ -14,7 +18,7 @@ Arsia Pore Reducing Pack (New)
 
 50g
 
-\48,000
+₩48,000
 
 효능효과 : 모공축소, 여드름피부, 메이크업 화장 개선, 매끄러운 피부결.
 
